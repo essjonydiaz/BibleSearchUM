@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Libro abierto centrado en la zona segura (66dp) del icono adaptativo -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Página izquierda -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,38 L52,42 L52,72 L30,68 Z" />
+    <!-- Página derecha -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,38 L56,42 L56,72 L78,68 Z" />
+    <!-- Cruz sobre la página derecha -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M66,46h2v18h-2z M62,51h10v2h-10z" />
+</vector>
